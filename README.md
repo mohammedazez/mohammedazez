@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Heyy, Aziz Here 👋, I'm a Software Enginner </h1>
 <h3 align="center">Change world with solve problem </h3>
 
-<img align="center" src="https://github.com/mohammedazez/mohammedazez/blob/master/google.gif" alt="aziz"/>
-![image](https://github.com/mohammedazez/mohammedazez/blob/master/google.gif)
+![image](https://www.google.com/logos/doodles/2020/thank-you-food-service-workers-6753651837108761-2xa.gif)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="aziz" />
