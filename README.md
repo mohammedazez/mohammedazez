@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Heyy, Aziz Here 👋, I'm a Software Enginner </h1>
 <h3 align="center">Change world with solve problem </h3>
 
-![image](https://www.google.com/logos/doodles/2020/thank-you-food-service-workers-6753651837108761-2xa.gif)
+![image](https://github.com/mohammedazez/mohammedazez/blob/master/google.gif)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="aziz" />
@@ -47,3 +47,6 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/#" height="20" width="20" /></a>
 
 </p>
+
+
+![image](https://github.com/mohammedazez/mohammedazez/blob/master/dino.gif)
