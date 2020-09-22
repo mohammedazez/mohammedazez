@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Heyy, Aziz Here 👋, I'm a Software Enginner </h1>
 <h3 align="center">Change world with solve problem </h3>
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/mohammedazez/mohammedazez/blob/master/google.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
+<img src="https://komarev.com/ghpvc/?username=tomkax" alt="aziz" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
