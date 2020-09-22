@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Heyy, Aziz Here 👋, I'm a Software Enginner and Traveler</h1>
+<h1 align="center">Heyy, Aziz Here 👋, I'm a Software Engineer and Traveler</h1>
 <h3 align="center">Change world with solve problem </h3>
 
 ![image](https://github.com/mohammedazez/mohammedazez/blob/master/google.gif)
