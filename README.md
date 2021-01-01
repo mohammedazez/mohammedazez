@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React, Javascript, Java, Python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Heyy, Aziz Here 👋, I'm a Software Developer and Traveller</h1>
+<h1 align="center">Heyy, Aziz Here 👋, I'm a Software Engineer and Traveller</h1>
 <h3 align="center">Change world with solve problem </h3>
 
 ![image](https://github.com/mohammedazez/mohammedazez/blob/master/google.gif)
