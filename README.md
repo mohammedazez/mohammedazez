@@ -48,4 +48,13 @@ Here are some ideas to get you started:
 </p>
 
 
+<br><br>
+
+<img align="left" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=mohammedazez&show_icons=true&locale=en" alt="mohammedazez" />
+
+<img align="right" height="200" width="334" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedazez&show_icons=true&locale=en&layout=compact" alt="mohammedazez" />
+<br>
+  
+
+
 ![image](https://github.com/mohammedazez/mohammedazez/blob/master/dino.gif)
