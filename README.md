@@ -1,7 +1,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working Software Engineer (Backend) at Majoo Teknologi
-- 🌱 I’m currently learning Golang, Javascript, PHP.
+- 🌱 I’m currently learning Golang, Javascript, Python.
 - 👯 I’m looking to collaborate on Open Source project
 - 💬 Ask me about work, projects, collaboration
 - 📫 How to reach me: muhamadaziz047@gmail.com
