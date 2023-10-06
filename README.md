@@ -1,6 +1,6 @@
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working Software Engineer (Backend) at Majoo Teknologi
+- 🔭 I’m currently working Software Engineer at Koinworks
 - 🌱 I’m currently learning Golang, Javascript, Python.
 - 👯 I’m looking to collaborate on Open Source project
 - 💬 Ask me about work, projects, collaboration
