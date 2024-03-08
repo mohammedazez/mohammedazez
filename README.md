@@ -1,6 +1,7 @@
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working Software Engineer at Koinworks
+- 🔭 I’m Ex Software Engineer at Crowde, Majoo, and Koinworks
+- 🔭 I’m Ex Fullstack Mentor at Eduwork and Skilvul
 - 🌱 I’m currently learning Golang, Javascript, Python.
 - 👯 I’m looking to collaborate on Open Source project
 - 💬 Ask me about work, projects, collaboration
