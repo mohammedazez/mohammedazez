@@ -1,7 +1,7 @@
 Here are some ideas to get you started:
 
-- 🌱 I’m currently working as Senior Software Engineer at Tripatra.
-- 🔭 I’m Ex Software Engineer at Crowde, Majoo, Koinworks, and Lion Parcel.
+- 🌱 I’m currently build my company at PT Tera Vertex Technology.
+- 🔭 I’m Ex Software Engineer at Crowde, Majoo, Koinworks, Lion Parcel, Tripatra.
 - 🔭 I’m Ex Fullstack Mentor at Eduwork and Skilvul
 - 🌱 I’m currently learning Golang, Javascript, Python.
 - 👯 I’m looking to collaborate on Open Source project
